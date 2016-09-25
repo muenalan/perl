@@ -1,0 +1,6 @@
+Revision history for Perl extension Alien::MUENALAN::Commandline::Mac.
+
+0.01  Sun Sep 25 10:23:28 2016
+	- original version; created by h2xs 1.23 with options
+		-X -n Alien::MUENALAN::Commandline::Mac
+
