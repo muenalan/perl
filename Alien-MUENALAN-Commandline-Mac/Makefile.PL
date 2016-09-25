@@ -7,7 +7,7 @@ WriteMakefile(
     VERSION_FROM      => 'lib/Alien/MUENALAN/Commandline/Mac.pm', # finds $VERSION
     PREREQ_PM         => {
 
-	AnyEvent => 0,
+	'AnyEvent' => 0,
 
     }, # e.g., Module::Name => 1.1
     ($] >= 5.005 ?     ## Add these new keywords supported since 5.005
