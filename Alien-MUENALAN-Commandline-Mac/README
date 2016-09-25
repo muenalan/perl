@@ -23,9 +23,7 @@ To install this module type the following:
 
 DEPENDENCIES
 
-This module requires these other modules and libraries:
-
-  blah blah blah
+This module requires these other modules and libraries. They are automatically installed via CPAN's commandline tools.
 
 COPYRIGHT AND LICENCE
 
